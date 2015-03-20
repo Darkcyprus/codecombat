@@ -30,7 +30,7 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
     about: "حول"
     contact: "اتّصال"
     twitter_follow: "متابعة"
-#    teachers: "Teachers"
+    teachers: "مدرسين"
 
   modal:
     close: "إغلاق"
@@ -52,7 +52,7 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
     spectate: "مشاهد" # Ladder page
     players: "لاعبين" # Hover over a level on /play
     hours_played: "ساعات اللّعب" # Hover over a level on /play
-#    items: "Items" # Tooltip on item shop button from /play
+    items: "أشياء" # Tooltip on item shop button from /play
     unlock: "فتح" # For purchasing items and heroes
     confirm: "تأكيد"
     owned: "ممتَلَك" # For items you own
@@ -60,23 +60,23 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
     purchasable: "للشراء" # For a hero you unlocked but haven't purchased
     available: "متوفر"
 #    skills_granted: "Skills Granted" # Property documentation details
-#    heroes: "Heroes" # Tooltip on hero shop button from /play
-#    achievements: "Achievements" # Tooltip on achievement list button from /play
+    heroes: "أبطال" # Tooltip on hero shop button from /play
+    achievements: "إنجازات" # Tooltip on achievement list button from /play
     account: "حساب" # Tooltip on account button from /play
     settings: "الإعدادات" # Tooltip on settings button from /play
-#    poll: "Poll" # Tooltip on poll button from /play
+    poll: "تصويت" # Tooltip on poll button from /play
     next: "التالي" # Go from choose hero to choose inventory before playing a level
-#    change_hero: "Change Hero" # Go back from choose inventory to choose hero
-#    choose_inventory: "Equip Items"
-#    buy_gems: "Buy Gems"
+    change_hero: "تغيير البطل" # Go back from choose inventory to choose hero
+    choose_inventory: "إستعمال"
+    buy_gems: "شراء الجواهر"
     subscription_required: "الإشتراك إلزامي"
     older_campaigns: "حملات أقدم"
     anonymous: "لاعب مجهول"
     level_difficulty: "الصعوبة:"
     campaign_beginner: "حملة المبتدئين"
-#    awaiting_levels_adventurer_prefix: "We release five levels per week."
-#    awaiting_levels_adventurer: "Sign up as an Adventurer"
-#    awaiting_levels_adventurer_suffix: "to be the first to play new levels."
+    awaiting_levels_adventurer_prefix: ".نحن نصدر خمسة مراحل كل أسبوع"
+    awaiting_levels_adventurer: "الأشتراك كمغالر"
+    awaiting_levels_adventurer_suffix: "أن تكون أول من يلعب المراحل الجديدة"
     adjust_volume: "تعديل الصوت"
     choose_your_level: "اختر مستواك" # The rest of this section is the old play view at /play-old and isn't very important.
     adventurer_prefix: "يمكنك القفز إلى أي مستوى أدناه، أو مناقشة المستويات على "
@@ -99,9 +99,9 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
 #    form_blurb: "Enter their email below and we’ll show them!"
 #    form_label: "Email Address"
 #    placeholder: "email address"
-#    title: "Excellent Work, Apprentice"
-#    tell_friend: "Tell your Friend"
-#    tell_parent: "Tell your Parent"
+    title: "عمل ممتازْ أيها المتعلم!"
+    tell_friend: "أخبر صديقك"
+    tell_parent: "أخبر ولى أمرك"
 
   login:
     sign_up: "إنشاء حساب"
@@ -131,16 +131,16 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
 #    recovery_sent: "Recovery email sent."
 
 #  items:
-#    primary: "Primary"
-#    secondary: "Secondary"
-#    armor: "Armor"
-#    accessories: "Accessories"
+    primary: "أساسي"
+    secondary: "جانبى"
+    armor: "درع"
+    accessories: "إكسسوار"
 #    misc: "Misc"
-#    books: "Books"
+    books: "كتب"
 
   common:
-#    back: "Back" # When used as an action verb, like "Navigate backward"
-#    continue: "Continue" # When used as an action verb, like "Continue forward"
+    back: "إرجع" # When used as an action verb, like "Navigate backward"
+    continue: "أكمل" # When used as an action verb, like "Continue forward"
     loading: "تحميل"
     saving: "جاري الحفض"
     sending: "جاري الإرسال"
@@ -153,19 +153,19 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
     fork: "إنسخ"
     play: "إلعب" # When used as an action verb, like "Play next level"
     retry: "إعادة"
-#    actions: "Actions"
-#    info: "Info"
-#    help: "Help"
+    actions: "أفعال"
+    info: "معلومات"
+    help: "مساعدة"
     watch: "مشاهدة"
     unwatch: "إنهاء المشاهدة"
     submit_patch: "تقديم التصحيح"
-#    submit_changes: "Submit Changes"
+    submit_changes: "تقديم التغييرات"
 
 #  general:
-#    and: "and"
-#    name: "Name"
-#    date: "Date"
-#    body: "Body"
+#    and: "و"
+#    name: "إسم"
+#    date: "تاريخ"
+#    body: "جسم"
 #    version: "Version"
 #    pending: "Pending"
 #    accepted: "Accepted"
